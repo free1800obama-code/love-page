@@ -2,7 +2,6 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>Give Love To Your Lover</title>
   <style>
     body {
       display: flex;
